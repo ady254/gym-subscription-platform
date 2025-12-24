@@ -1,7 +1,8 @@
 # Gym Subscription Platform
-
-A modern and responsive gym website designed to showcase fitness programs,
-membership plans, and user engagement through testimonials and transformations.
+A modern and responsive gym subscription platform featuring fitness programs,
+trainer selection, class booking, and membership plans. The application
+demonstrates complete booking and subscription flows using mock data and is
+designed to be backend-ready for real-world integration.
 
 ---
 
@@ -13,7 +14,12 @@ membership plans, and user engagement through testimonials and transformations.
 - Clean and modern UI/UX
 
 ---
+## 🧠 Data & Architecture Notes
+- The current version uses mock data to simulate class booking and subscription flows.
+- Designed to be backend-ready and easily extendable with a real database and payment gateway.
+- Booking availability, trainers, and plans are structured to reflect real-world logic.
 
+---
 ## 🛠 Tech Stack
 - Frontend: React + TypeScript
 - Styling: Tailwind CSS
